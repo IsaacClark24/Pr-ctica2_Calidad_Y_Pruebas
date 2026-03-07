@@ -1,9 +1,6 @@
 package org.paulina.mendez.service;
 
-import org.paulina.mendez.domain.GeneradorID;
-import org.paulina.mendez.domain.NotificadorTickets;
-import org.paulina.mendez.domain.Reloj;
-import org.paulina.mendez.domain.Ticket;
+import org.paulina.mendez.domain.*;
 import org.paulina.mendez.gateway.SolicitudTicketDTO;
 import org.paulina.mendez.gateway.TicketDTO;
 import org.paulina.mendez.repository.TicketRegister;

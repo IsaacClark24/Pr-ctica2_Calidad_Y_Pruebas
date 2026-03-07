@@ -1,4 +1,4 @@
-package org.paulina.mendez.service;
+package org.paulina.mendez.domain;
 
 public record SolicitudTicket(
         String usuarioId,
