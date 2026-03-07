@@ -1,7 +1,5 @@
 package org.paulina.mendez.domain;
 
-import org.paulina.mendez.service.SolicitudTicket;
-
 import java.time.Instant;
 
 public record Ticket(

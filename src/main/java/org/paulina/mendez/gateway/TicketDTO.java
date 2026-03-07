@@ -1,6 +1,6 @@
 package org.paulina.mendez.gateway;
 
-import org.paulina.mendez.service.SolicitudTicket;
+import org.paulina.mendez.domain.SolicitudTicket;
 
 public class TicketDTO {
 
